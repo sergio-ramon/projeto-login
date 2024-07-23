@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/*
+    Paleta de cores
+    #2CA4BF - Azul claro
+    #30B1BF - Azul clarinho
+    #260101 - Preto
+    #F2F2F2 - Branco
+    #BFBFBF - Cinza
+
+*/
+
+:root {
+    --azul-clarinho: #30B1BF;
+    --azul-claro: #2CA4BF;
+    --preto: #260101;
+    --branco: #F2F2F2;
+    --cinza: #BFBFBF;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+
+    margin: 0;
+    padding: 0;
+}

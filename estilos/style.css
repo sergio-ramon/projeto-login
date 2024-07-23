@@ -28,7 +28,7 @@
 }
 
 body, html {
-    background-color: var(--cinza);
+    background-color: var(--azul-clarinho);
 
     height: 100vh;
     width: 100vw;
@@ -56,6 +56,9 @@ section#login {
     width: 250px;
     height: 500px;
     border-radius: 20px;
+
+    transition: width 0.3s, height 0.3s;
+    transition-timing-function: ease;
 }
 
 section#login > div#img {

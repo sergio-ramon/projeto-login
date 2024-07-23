@@ -6,7 +6,8 @@
     }
     
     section#login {
-        width: 90vw;
+        width: 80vw;
+        height: 300px;
     }
 
     section#login > div#img {
@@ -31,6 +32,7 @@
 
     section#login {
         width: 980px;
+        height: 400px;
     }
 
     section#login > div#img {
@@ -50,6 +52,6 @@
     }
 
     div#form > p {
-        font-size: 1.2em;
+        font-size: 1em;
     }
 }
